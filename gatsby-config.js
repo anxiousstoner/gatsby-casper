@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ghost',
+    title: 'High Country Caregiver',
     description: 'The professional publishing platform',
     siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
   },
