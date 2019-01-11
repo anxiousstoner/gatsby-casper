@@ -145,7 +145,6 @@ const IndexPage: React.FunctionComponent<IndexProps> = props => {
             <SiteNav isHome={true} />
           </div>
         </header>
-        <div data-mantis-zone="caregivers" />
         <main id="site-main" className={`${SiteMain} ${outer}`}>
           <div className={`${inner}`}>
             <div className={`${PostFeed} ${PostFeedRaise}`}>
