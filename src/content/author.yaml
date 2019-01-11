@@ -1,9 +1,9 @@
 - id: Ghost
   avatar: avatars/ghost.png
-  bio: I write dank blog posts, mainly about news.
-  twitter: TryGhost
-  facebook: ghost
-  website: https://ghost.org/
+  bio: I write dank blog posts, mainly about news. I am a caregiver in Colorado.
+  twitter:
+  facebook:
+  website:  
   location: On a plane
 - id: Another Author
   avatar: avatars/ghost.png
