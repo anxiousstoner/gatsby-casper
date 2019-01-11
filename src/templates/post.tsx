@@ -305,7 +305,6 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
                   />
                 </PostFullImage>
               )}
-              <div data-mantis-zone="caregivers" />
               <PostContent htmlAst={post.htmlAst} />
 
               {/* The big email subscribe modal content */}
