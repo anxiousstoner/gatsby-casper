@@ -280,6 +280,7 @@ const PageTemplate: React.FunctionComponent<PageTemplateProps> = props => {
           <div className={`${inner}`}>
             {/* TODO: no-image css tag? */}
             <article className={`${PostFull} ${!post.frontmatter.image ? NoImage : ''}`}>
+              <div data-mantis-zone="caregivers"> </div>
               <PostFullHeader>
                 <PostFullMeta>
                   <PostFullMetaDate dateTime={post.frontmatter.date}>
